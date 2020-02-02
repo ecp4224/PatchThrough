@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1006833385a2ac14192dd7c88a729b2d, type: 3}
+  m_Name: TransmissionStatus
+  m_EditorClassIdentifier: 
+  Name: Transmission
+  Value: {fileID: 11400000, guid: 43964f518455cbf4b9c8f414a243bb4b, type: 2}
+  Unit: 
+  IsDisconnected: 1
